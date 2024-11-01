@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Análise de Dados", layout="wide")
 image1 = "logoInsper3.png"
 image2 = "logoAlupar.png"
-
+#
 # Criar três colunas: uma vazia para empurrar as imagens para o canto direito
 col1, col2, col3 = st.columns([6, 0.7, 0.5])  # Ajuste as proporções conforme necessário
 
