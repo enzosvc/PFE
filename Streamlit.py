@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Configuração da página
 st.set_page_config(page_title="Análise de Dados", layout="wide")
-
+#
 # Definição das páginas
 def upload_page():
     st.title("📊 Análise de Dados")
